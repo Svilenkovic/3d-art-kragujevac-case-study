@@ -37,10 +37,10 @@ Sadržaj sam podelio na osam strana, po jednu za svaku grupu proizvoda plus CNC 
 
 | | Performanse | Pristupačnost | Dobre prakse | SEO |
 | :-- | :-: | :-: | :-: | :-: |
-| Telefon | 99 | 100 | 100 | 100 |
-| Desktop | 98 | 100 | 100 | 100 |
+| Telefon | 100 | 100 | 100 | 100 |
+| Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `FAQPage`, `ItemList`, `LocalBusiness`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `LocalBusiness`.
 
 ## Snimci ekrana
 
